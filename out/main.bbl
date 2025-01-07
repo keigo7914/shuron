@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{Nagai2020}
+Ryo Nagai, Ryosuke Akashi, and Osamu Sugino.
+\newblock Completing density functional theory by machine learning hidden
+  messages from molecules.
+\newblock {\em npj Computational Materials}, Vol.~6, No.~1, May 2020.
+
+\bibitem{akiyama2015m}
+秋山良平, 澤田純男, 後藤浩之.
+\newblock 固体と流体の中間的媒質の揺動現象を解析するための支配方程式とその検証.
+\newblock 土木学会論文集A1（構造・地震工学）, Vol.~71, No.~4, pp. 493--501,
+  2015.
+
+\end{thebibliography}
